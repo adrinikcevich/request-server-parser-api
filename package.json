@@ -13,17 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-headerparser.git"
+    "url": "https://github.com/adrinikcevich/request-server-parser-api"
   },
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "author": "Adriano Nikcevich",
   "keywords": [
     "freeCodeCamp",
     "node",
-    "express"
+    "express",
+    "api"
   ],
   "license": "MIT"
 }
